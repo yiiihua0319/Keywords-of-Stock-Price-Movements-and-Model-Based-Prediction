@@ -37,6 +37,8 @@ We combined **text mining, keyword extraction, and machine learning models** (SV
 
    * Classical ML: SVM, Random Forest, KNN, Logistic Regression, Naive Bayes.
    * Neural approaches: BERT fine-tuning, LLM classification, Unsupervised clustering.
+   <img width="1214" height="515" alt="截圖 2025-10-02 下午4 31 51" src="https://github.com/user-attachments/assets/3c5a5852-8915-4f4e-9582-dbde6fa66195" />
+
 
 5. **Backtesting**
 
