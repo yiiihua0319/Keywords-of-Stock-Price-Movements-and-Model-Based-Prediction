@@ -1,5 +1,3 @@
-# bda_project
-
 ## EVA2618 News-Driven Stock Prediction
 
 ### Project Overview
