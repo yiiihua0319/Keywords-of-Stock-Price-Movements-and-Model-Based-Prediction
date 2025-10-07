@@ -1,4 +1,5 @@
-## EVA2618 News-Driven Stock Prediction
+## Keywords of Stock Price Movements and Model-Based Prediction
+
 
 ### Project Overview
 
